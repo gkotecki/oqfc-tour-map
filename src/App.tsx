@@ -1,16 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet';
 import './index.css';
-import Tangram from 'tangram';
-import { MapContainer, Marker, Popup, TileLayer, useMap } from 'react-leaflet';
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
-    <NewFunction />
+    <TourMap />
   </React.StrictMode>,
 );
 
-function NewFunction() {
+function TourMap() {
   return (
     <MapContainer center={[51.505, -0.09]} zoom={13} scrollWheelZoom={false}>
       <TileLayer
