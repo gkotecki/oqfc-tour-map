@@ -10,10 +10,14 @@
     "get-address": "tsx scripts/get-address.ts"
   },
   "dependencies": {
+    "leaflet": "1.9.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-leaflet": "4.2.1",
+    "tangram": "0.21.1"
   },
   "devDependencies": {
+    "@types/leaflet": "1.9.3",
     "@types/node": "16.x.x",
     "@types/react": "18.0.28",
     "@types/react-dom": "18.0.11",
@@ -21,8 +25,8 @@
     "autoprefixer": "10.4.14",
     "node-fetch": "3.3.1",
     "postcss": "8.4.21",
-    "prettier-plugin-tailwindcss": "0.2.4",
     "prettier": "2.8.4",
+    "prettier-plugin-tailwindcss": "0.2.4",
     "tailwindcss": "3.2.7",
     "tsx": "3.12.5",
     "typescript": "4.9.5",
