@@ -8,20 +8,20 @@ console.log(`\n\nRunning ${BLUE}get-address.ts${DEFAULT}...`);
 const dataPath = 'https://touroquefazercuritiba.com.br/participantes';
 
 try {
-  const portfolioPage = await fetch('https://touroquefazercuritiba.com.br/portfolio/page/1').then(res =>
-    res.text(),
-  );
+  let dict: { [id: string]: { address: string[] } } = {};
 
-  const participants = parseParticipants(
-    portfolioPage,
-    'href="https://touroquefazercuritiba.com.br/participantes/',
-  );
+  const pagedParticipants = (await Promise.all(getParticipants())).filter(items => items.length);
 
-  console.log(participants);
+  console.log('>> Found participants: ', JSON.stringify(pagedParticipants));
 
-  console.log(await findData$(participants[1]));
-
-  fs.writeFileSync('scripts/address-list.json', JSON.stringify({ participants }, null, 2), 'utf-8');
+  for (const participants of pagedParticipants) {
+    for (const participant of participants) {
+      const entry = { [participant]: { address: await getCompanyData$(participant) } };
+      console.log(entry);
+      dict = { ...dict, ...entry };
+      fs.writeFileSync('scripts/address-list.json', JSON.stringify(dict, null, 2), 'utf-8');
+    }
+  }
 
   console.log(
     `\n\t🎉 File ${BLUE}missing-assets.json${DEFAULT} was ${GREEN}successfully generated${DEFAULT}! 🎉`,
@@ -31,6 +31,26 @@ try {
     `\n\t🏃 File ${BLUE}missing-assets.json${DEFAULT} ${RED}could not be generated${DEFAULT}:\n`,
     e,
   );
+}
+
+function getParticipants(): Promise<string[]>[] {
+  const participants = [] as Promise<string[]>[];
+
+  for (const page of [...new Array(15)].map((_, i) => i + 1)) {
+    console.log('>> Fetching page', page);
+
+    const htmlContent$ = fetch(`https://touroquefazercuritiba.com.br/portfolio/page/${page}`)
+      .then(res => res.text())
+      .then(content =>
+        parseParticipants(content, 'href="https://touroquefazercuritiba.com.br/participantes/'),
+      );
+
+    if (!htmlContent$) return participants;
+
+    participants.push(htmlContent$);
+  }
+
+  return participants;
 }
 
 function parseParticipants(file: string, match: string): string[] {
@@ -43,10 +63,10 @@ function parseParticipants(file: string, match: string): string[] {
   return [...set];
 }
 
-async function findData$(participant: string) {
+function getCompanyData$(participant: string) {
   const url = `${dataPath}/${participant}`;
   const match = 'Endereço:';
-  const data = await fetch(url)
+  return fetch(url)
     .then(res => res.text())
     .then(res =>
       res
@@ -54,5 +74,4 @@ async function findData$(participant: string) {
         .filter(item => item.includes(match))
         .map(item => item.trim().split(match)[1].split('<')[0]),
     );
-  return data;
 }
