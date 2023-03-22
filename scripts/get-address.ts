@@ -7,8 +7,15 @@ console.log(`\n\nRunning ${BLUE}get-address.ts${DEFAULT}...`);
 
 const dataPath = 'https://touroquefazercuritiba.com.br/participantes';
 
+export type Participants = {
+  [id: string]: {
+    address: string[];
+  };
+};
+
 try {
-  let dict: { [id: string]: { address: string[] } } = {};
+
+  let dict: Participants = {};
 
   const pagedParticipants = (await Promise.all(getParticipants())).filter(items => items.length);
 

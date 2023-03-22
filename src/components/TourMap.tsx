@@ -1,5 +1,14 @@
 import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet';
 
+/**
+ * OQFC Tour map component
+ *
+ * @todo fetch lat/long from api (geocoding)
+ * @example
+ * https://nominatim.openstreetmap.org/ui/search.html?q=R.+Prof.+Pedro+Viriato+Parigot+de+Souza%2C+600+-+Mossungu%C3%AA%2C+Curitiba+-+PR%2C+81200-100
+ * https://nominatim.openstreetmap.org/search?q=135+pilkington+avenue,+birmingham&format=json&polygon=1&addressdetails=1
+ * https://nominatim.org/release-docs/develop/api/Search/
+ */
 export function TourMap() {
   return (
     <MapContainer center={[-25.43358, -49.30387]} zoom={13} scrollWheelZoom={false}>
