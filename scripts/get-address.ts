@@ -10,6 +10,12 @@ const dataPath = 'https://touroquefazercuritiba.com.br/participantes';
 export type Participants = {
   [id: string]: {
     address: string[];
+    data?: {
+      query?: string;
+      display_name?: string;
+      lat?: string;
+      lon?: string;
+    }[]
   };
 };
 
