@@ -2,66 +2,163 @@
   "55": {
     "address": [
       " R.  Vicente Machado, 866 - Batel, Curitiba - PR, 80420-011"
+    ],
+    "data": [
+      {
+        "query": "R.  Vicente Machado, 866 - Batel, Curitiba - PR, 80420-011",
+        "display_name": "Rua Vicente Machado, Jardim Saara, Itaperuçu, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 83560-000, Brasil",
+        "lat": "-25.2149477",
+        "lon": "-49.3313292"
+      }
     ]
   },
   "a-bela-pipoca": {
     "address": [
       " Rua Padre Anchieta, 1455 - Bigorrilho, Curitiba - PR"
+    ],
+    "data": [
+      {
+        "query": "Rua Padre Anchieta, 1455 - Bigorrilho, Curitiba - PR",
+        "display_name": "Rua Padre Anchieta, Mercês, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80430-060, Brasil",
+        "lat": "-25.4298455",
+        "lon": "-49.2909912"
+      }
     ]
   },
   "a-loja-da-torta": {
     "address": [
       " R. Manoel dos Santos Barreto, 152 - Juvevê, Curitiba - PR"
+    ],
+    "data": [
+      {
+        "query": "R. Manoel dos Santos Barreto, 152 - Juvevê, Curitiba - PR",
+        "display_name": "152, Rua Manoel dos Santos Barreto, Juvevê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80530-909, Brasil",
+        "lat": "-25.4137019",
+        "lon": "-49.2643443"
+      }
     ]
   },
   "abacazo": {
     "address": [
       " Park Shopping Barigüi - Rua Professor Pedro Viriato Parigot de Souza - Mossunguê, Curitiba - PR"
+    ],
+    "data": [
+      {
+        "query": "Park Shopping Barigüi - Rua Professor Pedro Viriato Parigot de Souza - Mossunguê, Curitiba - PR",
+        "display_name": "Park Shopping Barigüi, Rua Professor Pedro Viriato Parigot de Souza, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81200-100, Brasil",
+        "lat": "-25.434797250000003",
+        "lon": "-49.31611458831486"
+      }
     ]
   },
   "acqua-farina": {
     "address": [
       " R. Prof. Pedro Viriato Parigot de Souza, 600 - Mossunguê, Curitiba -PR , 81200-100"
+    ],
+    "data": [
+      {
+        "query": "R. Prof. Pedro Viriato Parigot de Souza, 600 - Mossunguê, Curitiba -PR , 81200-100",
+        "display_name": "600, Rua Professor Pedro Viriato Parigot de Souza, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80740-050, Brasil",
+        "lat": "-25.4361087",
+        "lon": "-49.3165919"
+      }
     ]
   },
   "adele-gastronomia-cafe": {
     "address": [
       " Alameda Dom Pedro II, 628 - Batel, Curitiba - PR"
+    ],
+    "data": [
+      {
+        "query": "Alameda Dom Pedro II, 628 - Batel, Curitiba - PR",
+        "display_name": "628, Alameda Dom Pedro II, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-160, Brasil",
+        "lat": "-25.4403157",
+        "lon": "-49.2865208"
+      }
     ]
   },
   "aish-baladi": {
     "address": [
       " Shopping Mueller - Avenida Cândido de Abreu - Centro Cívico, Curitiba - PR"
+    ],
+    "data": [
+      {
+        "query": "Shopping Mueller - Avenida Cândido de Abreu - Centro Cívico, Curitiba - PR",
+        "display_name": "Shopping Mueller, 127, Avenida Cândido de Abreu, Centro Cívico, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80530-060, Brasil",
+        "lat": "-25.4233367",
+        "lon": "-49.270511701628216"
+      }
     ]
   },
   "al-dunia": {
     "address": [
       " Rua Vicente Machado, 2094 - Batel, Curitiba - PR"
+    ],
+    "data": [
+      {
+        "query": "Rua Vicente Machado, 2094 - Batel, Curitiba - PR",
+        "display_name": "Rua Vicente Machado, Jardim Saara, Itaperuçu, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 83560-000, Brasil",
+        "lat": "-25.2149477",
+        "lon": "-49.3313292"
+      }
     ]
   },
   "all-natural-batel": {
     "address": [
       " Bento Viana, 912- batel "
+    ],
+    "data": [
+      {
+        "query": "Bento Viana, 912- batel",
+        "display_name": "Primeira Igreja Batista de Curitiba, 1200, Rua Bento Viana, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80240-110, Brasil",
+        "lat": "-25.44204905",
+        "lon": "-49.28496436217784"
+      }
     ]
   },
   "all-natural-restaurante-saudavel": {
     "address": [
       " Express Mall Champagnat - Rua Martim Afonso, 2910 - Loja 03 - Bigorrilho, Curitiba - PR, 80730-030"
-    ]
+    ],
+    "data": []
   },
   "astrolab": {
     "address": [
       " Alameda Presidente Taunay, 533 - Batel, Curitiba - PR"
+    ],
+    "data": [
+      {
+        "query": "Alameda Presidente Taunay, 533 - Batel, Curitiba - PR",
+        "display_name": "533, Alameda Presidente Taunay, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-060, Brasil",
+        "lat": "-25.4350642",
+        "lon": "-49.2857734"
+      }
     ]
   },
   "avenida-paulista-2": {
     "address": [
       " Rua Emiliano Perneta, 680 - Centro, Curitiba - PR, 80420-080"
+    ],
+    "data": [
+      {
+        "query": "Rua Emiliano Perneta, 680 - Centro, Curitiba - PR, 80420-080",
+        "display_name": "680, Rua Emiliano Perneta, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-080, Brasil",
+        "lat": "-25.4371951",
+        "lon": "-49.2777564"
+      }
     ]
   },
   "babilonia": {
     "address": [
       " Alameda Dom Pedro II, 541 - Batel, Curitiba - PR"
+    ],
+    "data": [
+      {
+        "query": "Alameda Dom Pedro II, 541 - Batel, Curitiba - PR",
+        "display_name": "Babilônia Gastronomia & Cia, 541, Alameda Dom Pedro II, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-160, Brasil",
+        "lat": "-25.4399265",
+        "lon": "-49.2857313"
+      }
     ]
   },
   "banoffi": {
@@ -72,51 +169,110 @@
   "banoffi-2": {
     "address": [
       " Rua Itupava, 1094 - Alto da XV, Curitiba - PR"
+    ],
+    "data": [
+      {
+        "query": "Rua Itupava, 1094 - Alto da XV, Curitiba - PR",
+        "display_name": "1094, Rua Itupava, Alto da Rua XV, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80045-300, Brasil",
+        "lat": "-25.4228608",
+        "lon": "-49.2494699"
+      }
     ]
   },
   "bar-do-victor-2": {
     "address": [
       " R. Lívio Moreira, 284 - São Lourenço, Curitiba - PR, 82200-070"
+    ],
+    "data": [
+      {
+        "query": "R. Lívio Moreira, 284 - São Lourenço, Curitiba - PR, 82200-070",
+        "display_name": "Bar do Victor, 284, Rua Lívio Moreira, São Lourenço, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 82200-220, Brasil",
+        "lat": "-25.3977686",
+        "lon": "-49.2704656"
+      }
     ]
   },
   "barbarella-bakery": {
     "address": [
       " R. Comendador Araújo, 795 - Centro, Curitiba - PR, 80420-000"
+    ],
+    "data": [
+      {
+        "query": "R. Comendador Araújo, 795 - Centro, Curitiba - PR, 80420-000",
+        "display_name": "795, Rua Comendador Araújo, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-000, Brasil",
+        "lat": "-25.4388955",
+        "lon": "-49.2820188"
+      }
     ]
   },
   "barraquias": {
     "address": [
       " Park Shopping Barigüi - Rua Professor Pedro Viriato Parigot de Souza - Mossunguê, Curitiba - PR"
+    ],
+    "data": [
+      {
+        "query": "Park Shopping Barigüi - Rua Professor Pedro Viriato Parigot de Souza - Mossunguê, Curitiba - PR",
+        "display_name": "Park Shopping Barigüi, Rua Professor Pedro Viriato Parigot de Souza, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81200-100, Brasil",
+        "lat": "-25.434797250000003",
+        "lon": "-49.31611458831486"
+      }
     ]
   },
   "bazar-doce-2": {
     "address": [
       " Alameda Pres. Taunay, 316 - Batel, Curitiba - PR, 80420-180"
-    ]
+    ],
+    "data": []
   },
   "beer-mad-batel": {
     "address": [
       " Av. Iguaçu, 4399 - Vila Izabel, Curitiba - PR, 80240-074"
+    ],
+    "data": [
+      {
+        "query": "Av. Iguaçu, 4399 - Vila Izabel, Curitiba - PR, 80240-074",
+        "display_name": "Souq, 4399, Avenida Iguaçu, Seminário, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80240-031, Brasil",
+        "lat": "-25.45497695",
+        "lon": "-49.30264819142673"
+      }
     ]
   },
   "bellari-pizzeria": {
     "address": [
       "Rua General Aristides Athayde Júnior, 713 - Bigorrilho, Curitiba - PR, 80730-370"
+    ],
+    "data": [
+      {
+        "query": "Rua General Aristides Athayde Júnior, 713 - Bigorrilho, Curitiba - PR, 80730-370",
+        "display_name": "713, Rua General Aristides Athaýde Júnior, Bigorrilho, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80730-000, Brasil",
+        "lat": "-25.4318124",
+        "lon": "-49.2980246"
+      }
     ]
   },
   "biergarten-usinamalte": {
     "address": [
       " Colônia Witmarsum - Av. Pres. Ernesto Geisel, 83 - Palmeira, PR, 84130-000"
-    ]
+    ],
+    "data": []
   },
   "bierwit-restaurante-e-choperia": {
     "address": [
       " Av. Pres. Ernesto Geisel - COLÔNIA WITMARSUM, Palmeira - PR, 84130-971"
-    ]
+    ],
+    "data": []
   },
   "big-bear": {
     "address": [
       " R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220"
+    ],
+    "data": [
+      {
+        "query": "R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220",
+        "display_name": "Mercadoteca, 1309, Rua Paulo Gorski, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81200-000, Brasil",
+        "lat": "-25.4418025",
+        "lon": "-49.32268531093524"
+      }
     ]
   },
   "big-bear-burger": {
@@ -132,39 +288,94 @@
   "blend-cacao-2": {
     "address": [
       " Alameda Dr. Carlos de Carvalho, 1282 - Batel, Curitiba - PR, 80730-200"
+    ],
+    "data": [
+      {
+        "query": "Alameda Dr. Carlos de Carvalho, 1282 - Batel, Curitiba - PR, 80730-200",
+        "display_name": "GreenGo Vegetariano, 1282, Alameda Doutor Carlos de Carvalho, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80430-180, Brasil",
+        "lat": "-25.4357673",
+        "lon": "-49.2870831"
+      }
     ]
   },
   "bobardi-2": {
     "address": [
       " Av. Munhoz da Rocha, 757 - Cabral, Curitiba - PR, 80035-000"
+    ],
+    "data": [
+      {
+        "query": "Av. Munhoz da Rocha, 757 - Cabral, Curitiba - PR, 80035-000",
+        "display_name": "757, Avenida Munhoz da Rocha, Cabral, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80035-049, Brasil",
+        "lat": "-25.4090904",
+        "lon": "-49.251991"
+      }
     ]
   },
   "boi-and-bear": {
     "address": [
       " R. Bom Jesus, 478 - Cabral, Curitiba - PR, 80035-010",
       " R. Marcelino Champagnat, 779 - Mercês, Curitiba - PR, 80430-050"
+    ],
+    "data": [
+      {
+        "query": "R. Bom Jesus, 478 - Cabral, Curitiba - PR, 80035-010",
+        "display_name": "478, Rua Bom Jesus, Juvevê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80035-010, Brasil",
+        "lat": "-25.4126161",
+        "lon": "-49.2534092"
+      },
+      {
+        "query": "R. Marcelino Champagnat, 779 - Mercês, Curitiba - PR, 80430-050",
+        "display_name": "Rua Marcelino Champagnat, Mercês, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80410-020, Brasil",
+        "lat": "-25.4271041",
+        "lon": "-49.2941198"
+      }
     ]
   },
   "boteco-curitiba": {
     "address": [
       " R. Francisco Ader, 201 - Novo Mundo, Curitiba - PR, 81050-140",
       " Jockey Plaza  Av. Victor Ferreira do Amaral, 2633 - Tarumã, Curitiba - PR, 82590-300"
+    ],
+    "data": [
+      {
+        "query": "R. Francisco Ader, 201 - Novo Mundo, Curitiba - PR, 81050-140",
+        "display_name": "Rua Francisco Ader, Novo Mundo, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81020-220, Brasil",
+        "lat": "-25.4916498",
+        "lon": "-49.296827"
+      }
     ]
   },
   "brigaderia-chic": {
     "address": [
       " R. Calixto Razolini, 183 - Portão, Curitiba - PR, 81070-060"
+    ],
+    "data": [
+      {
+        "query": "R. Calixto Razolini, 183 - Portão, Curitiba - PR, 81070-060",
+        "display_name": "183, Rua Calixto Razolini, Portão, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80610-240, Brasil",
+        "lat": "-25.4759227",
+        "lon": "-49.2944762"
+      }
     ]
   },
   "bruno-bolos": {
     "address": [
       " Av. Prefeito Omar Sabbag, 333 - Jardim Botânico, Curitiba - PR, 80210-000"
+    ],
+    "data": [
+      {
+        "query": "Av. Prefeito Omar Sabbag, 333 - Jardim Botânico, Curitiba - PR, 80210-000",
+        "display_name": "333, Avenida Prefeito Omar Sabbag, Bairro Jardim Botânico, Vila Torres, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80210-020, Brasil",
+        "lat": "-25.4379618",
+        "lon": "-49.2511063"
+      }
     ]
   },
   "bubble-mix-tea-2": {
     "address": [
       " Ageloni -   Av. Rep. Argentina, 900 - Água Verde, Curitiba - PR, 80620-010"
-    ]
+    ],
+    "data": []
   },
   "bull-prime": {
     "address": [
@@ -174,6 +385,14 @@
   "buble-mix": {
     "address": [
       "  Av. do Batel, 1868 - Batel, Curitiba - PR, 80420-090"
+    ],
+    "data": [
+      {
+        "query": "Av. do Batel, 1868 - Batel, Curitiba - PR, 80420-090",
+        "display_name": "Shopping Pátio Batel, 1868, Avenida do Batel, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-090, Brasil",
+        "lat": "-25.442964",
+        "lon": "-49.29093575383318"
+      }
     ]
   },
   "cla-vie": {
@@ -182,23 +401,67 @@
   "cake-door": {
     "address": [
       " Alameda Dr. Carlos de Carvalho, 74 - Centro, Curitiba - PR, 80410-180"
+    ],
+    "data": [
+      {
+        "query": "Alameda Dr. Carlos de Carvalho, 74 - Centro, Curitiba - PR, 80410-180",
+        "display_name": "Maru, 74, Alameda Doutor Carlos de Carvalho, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80410-201, Brasil",
+        "lat": "-25.4313967",
+        "lon": "-49.2760794"
+      }
     ]
   },
   "california-donut-company": {
     "address": [
       " R. Manoel Eufrásio, 1295 - Juvevê, Curitiba - PR, 80540-010",
       " Av. Cândido Hartmann, 920 - Mercês, Curitiba - PR, 80710-570"
+    ],
+    "data": [
+      {
+        "query": "R. Manoel Eufrásio, 1295 - Juvevê, Curitiba - PR, 80540-010",
+        "display_name": "1295, Rua Manoel Eufrásio, Juvevê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80540-240, Brasil",
+        "lat": "-25.40943",
+        "lon": "-49.2651642"
+      },
+      {
+        "query": "Av. Cândido Hartmann, 920 - Mercês, Curitiba - PR, 80710-570",
+        "display_name": "920, Avenida Cândido Hartmann, Mercês, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80710-570, Brasil",
+        "lat": "-25.4288858",
+        "lon": "-49.2948011"
+      }
     ]
   },
   "camarao-express": {
     "address": [
       " Av do Batel, 1868 - loja 41 - piso L4 - Batel, Curitiba - PR, 80420-090"
+    ],
+    "data": [
+      {
+        "query": "Av do Batel, 1868 - loja 41 - piso L4 - Batel, Curitiba - PR, 80420-090",
+        "display_name": "Shopping Pátio Batel, 1868, Avenida do Batel, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-090, Brasil",
+        "lat": "-25.442964",
+        "lon": "-49.29093575383318"
+      }
     ]
   },
   "cantina-do-delio-2": {
     "address": [
       " R. Itupava, 1094 - Alto da XV, Curitiba - PR, 80045-305",
       " R. Teixeira Coelho, 255 - Batel, Curitiba - PR, 80420-150"
+    ],
+    "data": [
+      {
+        "query": "R. Itupava, 1094 - Alto da XV, Curitiba - PR, 80045-305",
+        "display_name": "1094, Rua Itupava, Alto da Rua XV, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80045-300, Brasil",
+        "lat": "-25.4228608",
+        "lon": "-49.2494699"
+      },
+      {
+        "query": "R. Teixeira Coelho, 255 - Batel, Curitiba - PR, 80420-150",
+        "display_name": "Rua Teixeira Coelho, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80240-110, Brasil",
+        "lat": "-25.4399813",
+        "lon": "-49.2874323"
+      }
     ]
   },
   "cantina-famiglia-fadanelli": {
@@ -207,6 +470,14 @@
   "cao-veio": {
     "address": [
       " R. Alferes Ângelo Sampaio, 1744 - Água Verde, Curitiba - PR, 80420-160"
+    ],
+    "data": [
+      {
+        "query": "R. Alferes Ângelo Sampaio, 1744 - Água Verde, Curitiba - PR, 80420-160",
+        "display_name": "1744, Rua Alferes Ângelo Sampaio, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-160, Brasil",
+        "lat": "-25.4387323",
+        "lon": "-49.2858995"
+      }
     ]
   },
   "capivari-ecoresort": {
@@ -217,77 +488,183 @@
   "capivari-ecoresort-2": {
     "address": [
       " Estrada Municipal Antônio Kovalski, s/n, Campina Grande do Sul - PR, 83430-000"
-    ]
+    ],
+    "data": []
   },
   "carlo-ristorante": {
     "address": [
       " Av. Iguaçu, 2820 - Água Verde, Curitiba - PR, 80240-031"
+    ],
+    "data": [
+      {
+        "query": "Av. Iguaçu, 2820 - Água Verde, Curitiba - PR, 80240-031",
+        "display_name": "2820, Avenida Iguaçu, Água Verde, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80240-041, Brasil",
+        "lat": "-25.4492925",
+        "lon": "-49.2885712"
+      }
     ]
   },
   "carmels-pipocas": {
     "address": [
       " Rua Major Theolindo Ferreira Ribas, 812 - Hauer, Curitiba - PR, 81630-100"
+    ],
+    "data": [
+      {
+        "query": "Rua Major Theolindo Ferreira Ribas, 812 - Hauer, Curitiba - PR, 81630-100",
+        "display_name": "812, Rua Major Theolindo Ferreira Ribas, Hauer, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81630-180, Brasil",
+        "lat": "-25.4840001",
+        "lon": "-49.2573364"
+      }
     ]
   },
   "carmela-d-o-c-pizzeria": {
     "address": [
       " R. Santa Catarina, 180 - Água Verde, Curitiba - PR, 80620-100"
+    ],
+    "data": [
+      {
+        "query": "R. Santa Catarina, 180 - Água Verde, Curitiba - PR, 80620-100",
+        "display_name": "Carmela Pizzeria, 180, Rua Santa Catarina, Água Verde, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80620-100, Brasil",
+        "lat": "-25.4613924",
+        "lon": "-49.2878333"
+      }
     ]
   },
   "carnivore-steak-house": {
     "address": [
       " Av. Iguaçu, 4399 - Vila Izabel, Curitiba - PR, 80240-074"
+    ],
+    "data": [
+      {
+        "query": "Av. Iguaçu, 4399 - Vila Izabel, Curitiba - PR, 80240-074",
+        "display_name": "Souq, 4399, Avenida Iguaçu, Seminário, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80240-031, Brasil",
+        "lat": "-25.45497695",
+        "lon": "-49.30264819142673"
+      }
     ]
   },
   "carolina-cafe-doceria": {
     "address": [
       " R. Gutemberg, 585 - Casa 1 - Batel, Curitiba - PR, 80420-030"
+    ],
+    "data": [
+      {
+        "query": "R. Gutemberg, 585 - Casa 1 - Batel, Curitiba - PR, 80420-030",
+        "display_name": "585, Rua Gutemberg, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-090, Brasil",
+        "lat": "-25.4400978",
+        "lon": "-49.2900331"
+      }
     ]
   },
   "cave-maria-vinheria": {
     "address": [
       " Rua Cel. Isaías Natel de Paula, 131 - Bom Retiro, Curitiba - PR, 80520-450"
+    ],
+    "data": [
+      {
+        "query": "Rua Cel. Isaías Natel de Paula, 131 - Bom Retiro, Curitiba - PR, 80520-450",
+        "display_name": "131, Rua Coronel Isaías Natel de Paula, Bom Retiro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80520-250, Brasil",
+        "lat": "-25.4060878",
+        "lon": "-49.280032"
+      }
     ]
   },
   "chateau-de-gazon-2": {
     "address": [
       " R. Pasteur, 134 - Batel, Curitiba - PR, 80250-080"
+    ],
+    "data": [
+      {
+        "query": "R. Pasteur, 134 - Batel, Curitiba - PR, 80250-080",
+        "display_name": "134, Rua Pasteur, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80250-210, Brasil",
+        "lat": "-25.4411154",
+        "lon": "-49.2806809"
+      }
     ]
   },
   "cheezy-cafe-e-pao-de-queijo": {
     "address": [
       " R. Padre Anchieta, 1455 - Bigorrilho, Curitiba - PR, 80430-060"
+    ],
+    "data": [
+      {
+        "query": "R. Padre Anchieta, 1455 - Bigorrilho, Curitiba - PR, 80430-060",
+        "display_name": "Rua Padre Anchieta, Mercês, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80430-060, Brasil",
+        "lat": "-25.4298455",
+        "lon": "-49.2909912"
+      }
     ]
   },
   "cheia-de-graca-patisserie": {
     "address": [
       " R. Bpo. Dom José, 2465 - Batel, Curitiba - PR, 80440-080"
-    ]
+    ],
+    "data": []
   },
   "chewie-burger-and-beer": {
     "address": [
       " Alameda Prudente de Moraes, 843 - Centro, Curitiba - PR, 80430-234"
+    ],
+    "data": [
+      {
+        "query": "Alameda Prudente de Moraes, 843 - Centro, Curitiba - PR, 80430-234",
+        "display_name": "Rua Prudente de Moraes, Mercês, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80410-000, Brasil",
+        "lat": "-25.4257178",
+        "lon": "-49.2846158"
+      }
     ]
   },
   "coco-bambu-2": {
     "address": [
       " Shopping Crystal, R. Comendador Araújo, 731 - Sala 321 - Batel, Curitiba - PR, 80420-000",
       " R. Prof. Pedro Viriato Parigot de Souza, 600 - Mossunguê, Curitiba - PR, 81200-100"
+    ],
+    "data": [
+      {
+        "query": "R. Prof. Pedro Viriato Parigot de Souza, 600 - Mossunguê, Curitiba - PR, 81200-100",
+        "display_name": "600, Rua Professor Pedro Viriato Parigot de Souza, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80740-050, Brasil",
+        "lat": "-25.4361087",
+        "lon": "-49.3165919"
+      }
     ]
   },
   "cold-stone": {
     "address": [
       " R. Francisco Rocha, 561 - Batel, Curitiba - PR, 80440-050"
+    ],
+    "data": [
+      {
+        "query": "R. Francisco Rocha, 561 - Batel, Curitiba - PR, 80440-050",
+        "display_name": "561, Rua Francisco Rocha, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80730-380, Brasil",
+        "lat": "-25.4410451",
+        "lon": "-49.2901927"
+      }
     ]
   },
   "confeitaria-holandesa": {
     "address": [
       " R. Dr. Pedrosa, 366 - Centro, Curitiba - PR, 80420-120"
+    ],
+    "data": [
+      {
+        "query": "R. Dr. Pedrosa, 366 - Centro, Curitiba - PR, 80420-120",
+        "display_name": "Confeitaria Holandesa, 366, Rua Doutor Pedrosa, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-080, Brasil",
+        "lat": "-25.4383255",
+        "lon": "-49.2778753"
+      }
     ]
   },
   "constantino-crepe-frances": {
     "address": [
       " R. Mal. Deodoro, 686 - loja 23 - Centro, Curitiba - PR, 80010-010"
+    ],
+    "data": [
+      {
+        "query": "R. Mal. Deodoro, 686 - loja 23 - Centro, Curitiba - PR, 80010-010",
+        "display_name": "Lovinha - Plant-Based Pizza, 686, Rua Marechal Deodoro, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80010-010, Brasil",
+        "lat": "-25.4302939",
+        "lon": "-49.2657902"
+      }
     ]
   },
   "cookie-stories-2": {
@@ -296,6 +673,32 @@
       " Av. Sete de Setembro, 2775 - Rebouças, Curitiba - PR, 80230-010",
       " R. Comendador Araújo, 444 - Centro, Curitiba - PR, 80420-000",
       " R. Mal. Deodoro, 651 - Centro, Curitiba - PR, 80060-010"
+    ],
+    "data": [
+      {
+        "query": "Rua Moysés Marcondes, 429 - loja 03 - Juvevê, Curitiba - PR, 80030-410",
+        "display_name": "429, Rua Moysés Marcondes, Juvevê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80030-340, Brasil",
+        "lat": "-25.413386",
+        "lon": "-49.2578978"
+      },
+      {
+        "query": "Av. Sete de Setembro, 2775 - Rebouças, Curitiba - PR, 80230-010",
+        "display_name": "Teatro Regina Vogue, 2775, Avenida Sete de Setembro, Rebouças, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80230-010, Brasil",
+        "lat": "-25.4387442",
+        "lon": "-49.2678835"
+      },
+      {
+        "query": "R. Comendador Araújo, 444 - Centro, Curitiba - PR, 80420-000",
+        "display_name": "444, Rua Comendador Araújo, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-000, Brasil",
+        "lat": "-25.4364708",
+        "lon": "-49.2797963"
+      },
+      {
+        "query": "R. Mal. Deodoro, 651 - Centro, Curitiba - PR, 80060-010",
+        "display_name": "651, Rua Marechal Deodoro, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80060-010, Brasil",
+        "lat": "-25.4298771",
+        "lon": "-49.2662392"
+      }
     ]
   },
   "coxinha-lovers-2": {
@@ -305,27 +708,72 @@
       " R. Prof. Pedro Viriato Parigot de Souza - Mossunguê, Curitiba - PR, 81200-100",
       " Av. José Gulin, 105 - Bacacheri, Curitiba - PR, 82600-360",
       " Rua konrad adenauer, 370, Piso L2, loja 2189 - Tarumã, Curitiba - PR, 82821-020"
+    ],
+    "data": [
+      {
+        "query": "R. Brg. Franco, 2300 - Centro, Curitiba - PR, 80250-030",
+        "display_name": "Cinesystem, 2300, Rua Brigadeiro Franco, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80250-130, Brasil",
+        "lat": "-25.4407808",
+        "lon": "-49.2775465"
+      },
+      {
+        "query": "R. Prof. Pedro Viriato Parigot de Souza - Mossunguê, Curitiba - PR, 81200-100",
+        "display_name": "Rua Professor Pedro Viriato Parigot de Souza, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80740-050, Brasil",
+        "lat": "-25.4367418",
+        "lon": "-49.3187293"
+      },
+      {
+        "query": "Av. José Gulin, 105 - Bacacheri, Curitiba - PR, 82600-360",
+        "display_name": "Com a Mão, 105, Avenida José Gulin, Bacacheri, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 82600-360, Brasil",
+        "lat": "-25.3935944",
+        "lon": "-49.2253818"
+      }
     ]
   },
   "cs-doce-cafe": {
     "address": [
       " R. Padre Agostinho, 439 - Mercês, Curitiba - PR, 80430-050"
+    ],
+    "data": [
+      {
+        "query": "R. Padre Agostinho, 439 - Mercês, Curitiba - PR, 80430-050",
+        "display_name": "Dali da Esquina, 439, Rua Padre Agostinho, Mercês, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80410-060, Brasil",
+        "lat": "-25.4257665",
+        "lon": "-49.2844493"
+      }
     ]
   },
   "dengo": {
     "address": [
       " Pátio Batel - Avenida do Batel, 1868 2° piso - Batel, Curitiba - PR, 80420-090",
       " ParkShoppingBarigüi - R. Prof. Pedro Viriato Parigot de Souza, 600 - Térreo - Mossunguê, Curitiba - PR, 81200-100"
+    ],
+    "data": [
+      {
+        "query": "Pátio Batel - Avenida do Batel, 1868 2° piso - Batel, Curitiba - PR, 80420-090",
+        "display_name": "Shopping Pátio Batel, 1868, Avenida do Batel, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-090, Brasil",
+        "lat": "-25.442964",
+        "lon": "-49.29093575383318"
+      }
     ]
   },
   "dio-wine-bar-2": {
     "address": [
       " Av.Marechal Deodoro, 686 Vila Urbana - container 14 - Centro, Curitiba - PR, 80010-010"
-    ]
+    ],
+    "data": []
   },
   "doce-de-moca": {
     "address": [
       " R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220"
+    ],
+    "data": [
+      {
+        "query": "R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220",
+        "display_name": "Mercadoteca, 1309, Rua Paulo Gorski, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81200-000, Brasil",
+        "lat": "-25.4418025",
+        "lon": "-49.32268531093524"
+      }
     ]
   },
   "duckbill-2": {
@@ -333,36 +781,97 @@
       " R. Padre Anchieta, 2285 - loja 03 - Bigorrilho, Curitiba - PR, 80730-001",
       " R. Manoel Eufrásio, 730 - Juvevê, Curitiba - PR, 80540-010",
       " Tv. Jesuíno Marcondes, 56 - Centro, Curitiba - PR, 80010-060"
+    ],
+    "data": [
+      {
+        "query": "R. Padre Anchieta, 2285 - loja 03 - Bigorrilho, Curitiba - PR, 80730-001",
+        "display_name": "2285, Rua Padre Anchieta, Bigorrilho, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80730-000, Brasil",
+        "lat": "-25.4340273",
+        "lon": "-49.3011447"
+      },
+      {
+        "query": "R. Manoel Eufrásio, 730 - Juvevê, Curitiba - PR, 80540-010",
+        "display_name": "Baraquias, 730, Rua Manoel Eufrásio, Juvevê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80540-240, Brasil",
+        "lat": "-25.4109904",
+        "lon": "-49.2589424"
+      },
+      {
+        "query": "Tv. Jesuíno Marcondes, 56 - Centro, Curitiba - PR, 80010-060",
+        "display_name": "Travessa Jesuíno Marcondes, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80410-201, Brasil",
+        "lat": "-25.4332769",
+        "lon": "-49.2767656"
+      }
     ]
   },
   "fabrica-gourmet-2": {
     "address": [
       " R. Vicente Machado, 632 - Centro, Curitiba - PR, 80510-220"
+    ],
+    "data": [
+      {
+        "query": "R. Vicente Machado, 632 - Centro, Curitiba - PR, 80510-220",
+        "display_name": "Rua Vicente Machado, Jardim Saara, Itaperuçu, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 83560-000, Brasil",
+        "lat": "-25.2149477",
+        "lon": "-49.3313292"
+      }
     ]
   },
   "famiglia-ceschin-2": {
     "address": [
       "Av. Com. Franco, 4387 - Uberaba, Curitiba - PR, 81530-440"
-    ]
+    ],
+    "data": []
   },
   "fle-cacau-oliva": {
     "address": [
       " R. Camões, 1122 - Alto da XV, Curitiba - PR, 80040-180"
+    ],
+    "data": [
+      {
+        "query": "R. Camões, 1122 - Alto da XV, Curitiba - PR, 80040-180",
+        "display_name": "1122, Rua Camões, Hugo Lange, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80045-330, Brasil",
+        "lat": "-25.4212544",
+        "lon": "-49.2469221"
+      }
     ]
   },
   "funiki-rooftop": {
     "address": [
       " Rua Desembargador Motta, 2311  - Batel, Curitiba - PR"
+    ],
+    "data": [
+      {
+        "query": "Rua Desembargador Motta, 2311  - Batel, Curitiba - PR",
+        "display_name": "Rua Desembargador Motta, Mercês, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80810-000, Brasil",
+        "lat": "-25.4228555",
+        "lon": "-49.2889792"
+      }
     ]
   },
   "galeria41": {
     "address": [
       " R. Pergentina Silva Soares, 159 - Jardim Botânico, Curitiba - PR, 80210-410"
+    ],
+    "data": [
+      {
+        "query": "R. Pergentina Silva Soares, 159 - Jardim Botânico, Curitiba - PR, 80210-410",
+        "display_name": "159, Rua Pergentina Silva Soares, Bairro Jardim Botânico, Vila Torres, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80215-090, Brasil",
+        "lat": "-25.4458459",
+        "lon": "-49.2473698"
+      }
     ]
   },
   "garden-hambargueria": {
     "address": [
       " Av. Jaime Reis, 22 - São Francisco, Curitiba - PR, 80510-010"
+    ],
+    "data": [
+      {
+        "query": "Av. Jaime Reis, 22 - São Francisco, Curitiba - PR, 80510-010",
+        "display_name": "22, Avenida Jaime Reis, Centro Histórico, São Francisco, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80410-100, Brasil",
+        "lat": "-25.427256",
+        "lon": "-49.2741781"
+      }
     ]
   },
   "gards": {
@@ -373,6 +882,14 @@
   "gards-2": {
     "address": [
       " Alameda Princesa Izabel, 2873 - Bigorrilho, Curitiba - PR, 80730-080"
+    ],
+    "data": [
+      {
+        "query": "Alameda Princesa Izabel, 2873 - Bigorrilho, Curitiba - PR, 80730-080",
+        "display_name": "Alameda Princesa Izabel, Bigorrilho, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80430-190, Brasil",
+        "lat": "-25.4309116",
+        "lon": "-49.2852107"
+      }
     ]
   },
   "gelataio": {
@@ -383,22 +900,40 @@
   "gelataio-2": {
     "address": [
       " R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220"
+    ],
+    "data": [
+      {
+        "query": "R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220",
+        "display_name": "Mercadoteca, 1309, Rua Paulo Gorski, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81200-000, Brasil",
+        "lat": "-25.4418025",
+        "lon": "-49.32268531093524"
+      }
     ]
   },
   "gelato-borelli": {
     "address": [
       " R. Fernando Simas, 27 - Mercês, Curitiba - PR, 80430-190"
+    ],
+    "data": [
+      {
+        "query": "R. Fernando Simas, 27 - Mercês, Curitiba - PR, 80430-190",
+        "display_name": "Rua Fernando Simas, Mercês, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80430-000, Brasil",
+        "lat": "-25.4250812",
+        "lon": "-49.2918672"
+      }
     ]
   },
   "gianfranco-massas": {
     "address": [
       " R. Sen. Batista de Oliveira, 155 - Jardim das Américas, Curitiba - PR, 81530-150"
-    ]
+    ],
+    "data": []
   },
   "gianttura-ristorante": {
     "address": [
       " Largo Pedro Deconto, 295 - Bigorrilho, Curitiba - PR, 80710-180"
-    ]
+    ],
+    "data": []
   },
   "gio-kitchen": {
     "address": [
@@ -408,6 +943,14 @@
   "gio-kitchen-wine": {
     "address": [
       " R. Euclides da Cunha, 1202 - Bigorrilho, Curitiba - PR, 80730-360"
+    ],
+    "data": [
+      {
+        "query": "R. Euclides da Cunha, 1202 - Bigorrilho, Curitiba - PR, 80730-360",
+        "display_name": "1202, Rua Euclides da Cunha, Bigorrilho, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80730-000, Brasil",
+        "lat": "-25.4347681",
+        "lon": "-49.2977996"
+      }
     ]
   },
   "gioia": {
@@ -418,6 +961,14 @@
   "gioia-2": {
     "address": [
       " R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220"
+    ],
+    "data": [
+      {
+        "query": "R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220",
+        "display_name": "Mercadoteca, 1309, Rua Paulo Gorski, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81200-000, Brasil",
+        "lat": "-25.4418025",
+        "lon": "-49.32268531093524"
+      }
     ]
   },
   "go-coffee": {
@@ -431,12 +982,14 @@
   "god-save-the-beer": {
     "address": [
       " Av. Com. Franco, 2880 - Guabirotuba, Curitiba - PR, 81520-000"
-    ]
+    ],
+    "data": []
   },
   "god-save-the-wine": {
     "address": [
       " Av. Com. Franco, 2864 - Guabirotuba, Curitiba - PR, 81520-000"
-    ]
+    ],
+    "data": []
   },
   "gres-gastronomia": {
     "address": [
@@ -446,16 +999,40 @@
   "gres-gastronomia-2": {
     "address": [
       " R. Saldanha Marinho, 1582 - Centro, Curitiba - PR, 80430-160"
+    ],
+    "data": [
+      {
+        "query": "R. Saldanha Marinho, 1582 - Centro, Curitiba - PR, 80430-160",
+        "display_name": "1582, Rua Saldanha Marinho, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80430-160, Brasil",
+        "lat": "-25.4341807",
+        "lon": "-49.2865214"
+      }
     ]
   },
   "haga-buns-2": {
     "address": [
       " Av. Pres. Getúlio Vargas, 3767 - Vila Izabel, Curitiba - PR, 80240-041"
+    ],
+    "data": [
+      {
+        "query": "Av. Pres. Getúlio Vargas, 3767 - Vila Izabel, Curitiba - PR, 80240-041",
+        "display_name": "Av. Pres. Getúlio Vargas, 767 - Rebouças, Avenida Presidente Getúlio Vargas, Rebouças, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80230-100, Brasil",
+        "lat": "-25.4431807",
+        "lon": "-49.2670329"
+      }
     ]
   },
   "hard-rock-cafe-curitiba": {
     "address": [
       " R. Buenos Aires, 50 - Batel, Curitiba - PR, 80250-070"
+    ],
+    "data": [
+      {
+        "query": "R. Buenos Aires, 50 - Batel, Curitiba - PR, 80250-070",
+        "display_name": "Hard Rock Cafe, 50, Rua Buenos Aires, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-100, Brasil",
+        "lat": "-25.4383005",
+        "lon": "-49.2811185"
+      }
     ]
   },
   "havanna-2": {
@@ -465,38 +1042,105 @@
       " lá 311, Av. do Batel, 1868 - 3° andar - Batel, Curitiba - PR, 80420-090",
       " R. Prof. Pedro Viriato Parigot de Souza, 600 - Mossunguê, Curitiba - PR, 81200-100",
       " Shopping Muller, Curitiba - PR"
+    ],
+    "data": [
+      {
+        "query": "R. Comendador Araújo, 731 - Centro, Curitiba - PR, 80120-000",
+        "display_name": "Espaço Itaú de Cinema Curitiba, 731, Rua Comendador Araújo, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-000, Brasil",
+        "lat": "-25.4389936",
+        "lon": "-49.2815202"
+      },
+      {
+        "query": "R. Prof. Pedro Viriato Parigot de Souza, 600 - Mossunguê, Curitiba - PR, 81200-100",
+        "display_name": "600, Rua Professor Pedro Viriato Parigot de Souza, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80740-050, Brasil",
+        "lat": "-25.4361087",
+        "lon": "-49.3165919"
+      }
     ]
   },
   "il-barbuto-2": {
     "address": [
       "Alameda Prudente de Moraes, 1227 - Centro, Curitiba - PR, 80430-234"
+    ],
+    "data": [
+      {
+        "query": "Alameda Prudente de Moraes, 1227 - Centro, Curitiba - PR, 80430-234",
+        "display_name": "1227, Rua Prudente de Moraes, Mercês, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80410-000, Brasil",
+        "lat": "-25.4326218",
+        "lon": "-49.2811898"
+      }
     ]
   },
   "imax-palladium": {
     "address": [
       " Av. Pres. Kennedy, 4121 - Portão, Curitiba - PR, 80610-905"
-    ]
+    ],
+    "data": []
   },
   "integral-fit": {
     "address": [
       " R. Oyapock, 106 - Cristo Rei, Curitiba - PR, 80050-450"
+    ],
+    "data": [
+      {
+        "query": "R. Oyapock, 106 - Cristo Rei, Curitiba - PR, 80050-450",
+        "display_name": "106, Rua Oyapock, Cristo Rei, Vila Torres, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80050-450, Brasil",
+        "lat": "-25.436217",
+        "lon": "-49.2384681"
+      }
     ]
   },
   "janela-bar-2": {
     "address": [
       " Alameda Prudente de Moraes, 1295 - Centro, Curitiba - PR, 80430-234",
       " R. Itupava, 1299 - loja 01 - Hugo Lange, Curitiba - PR, 80040-455"
+    ],
+    "data": [
+      {
+        "query": "Alameda Prudente de Moraes, 1295 - Centro, Curitiba - PR, 80430-234",
+        "display_name": "Rua Prudente de Moraes, Mercês, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80410-000, Brasil",
+        "lat": "-25.4257178",
+        "lon": "-49.2846158"
+      },
+      {
+        "query": "R. Itupava, 1299 - loja 01 - Hugo Lange, Curitiba - PR, 80040-455",
+        "display_name": "1299, Rua Itupava, Hugo Lange, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80045-330, Brasil",
+        "lat": "-25.4227849",
+        "lon": "-49.2476375"
+      }
     ]
   },
   "kitsune": {
     "address": [
       " R. Celeste Santi - Ahú, Curitiba - PR, 80530-370"
+    ],
+    "data": [
+      {
+        "query": "R. Celeste Santi - Ahú, Curitiba - PR, 80530-370",
+        "display_name": "Rua Celeste Santi, Bom Retiro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80540-280, Brasil",
+        "lat": "-25.405938",
+        "lon": "-49.2710634"
+      }
     ]
   },
   "koffee": {
     "address": [
       " R. Vicente Machado, 205 - Centro, Curitiba - PR, 80420-010",
       " Av. Sete de Setembro, 2775 - lj. 1077 - Rebouças, Curitiba - PR, 80230-010"
+    ],
+    "data": [
+      {
+        "query": "R. Vicente Machado, 205 - Centro, Curitiba - PR, 80420-010",
+        "display_name": "Rua Vicente Machado, Jardim Saara, Itaperuçu, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 83560-000, Brasil",
+        "lat": "-25.2149477",
+        "lon": "-49.3313292"
+      },
+      {
+        "query": "Av. Sete de Setembro, 2775 - lj. 1077 - Rebouças, Curitiba - PR, 80230-010",
+        "display_name": "Teatro Regina Vogue, 2775, Avenida Sete de Setembro, Rebouças, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80230-010, Brasil",
+        "lat": "-25.4387442",
+        "lon": "-49.2678835"
+      }
     ]
   },
   "kopenhagen-2": {
@@ -505,11 +1149,39 @@
       " R. Brg. Franco, 2300 - Centro, Curitiba - PR, 81230-550",
       " R. XV de Novembro, 35 - Centro, Curitiba - PR, 80020-310",
       " Shopping Center Novo Batel - Alameda Dom Pedro II, 255 - 14 - Batel, Curitiba - PR, 80420-060"
+    ],
+    "data": [
+      {
+        "query": "Av. Sete de Setembro, 2775 - 1133-A - Rebouças, Curitiba - PR, 80230-010",
+        "display_name": "Teatro Regina Vogue, 2775, Avenida Sete de Setembro, Rebouças, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80230-010, Brasil",
+        "lat": "-25.4387442",
+        "lon": "-49.2678835"
+      },
+      {
+        "query": "R. Brg. Franco, 2300 - Centro, Curitiba - PR, 81230-550",
+        "display_name": "Cinesystem, 2300, Rua Brigadeiro Franco, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80250-130, Brasil",
+        "lat": "-25.4407808",
+        "lon": "-49.2775465"
+      },
+      {
+        "query": "R. XV de Novembro, 35 - Centro, Curitiba - PR, 80020-310",
+        "display_name": "Rua XV de Novembro, Centro, São José dos Pinhais, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 83005-350, Brasil",
+        "lat": "-25.5389273",
+        "lon": "-49.1980935"
+      }
     ]
   },
   "lepicerie-2": {
     "address": [
       " R. Fernando Simas, 340 - Bigorrilho, Curitiba - PR, 80430-190"
+    ],
+    "data": [
+      {
+        "query": "R. Fernando Simas, 340 - Bigorrilho, Curitiba - PR, 80430-190",
+        "display_name": "L'Épicerie, 340, Rua Fernando Simas, Bigorrilho, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80430-190, Brasil",
+        "lat": "-25.4329339",
+        "lon": "-49.2880275"
+      }
     ]
   },
   "lepicerie": {
@@ -525,6 +1197,14 @@
   "la-mafia-trattoria-2": {
     "address": [
       " Rua Desembargador Motta, 2601 - Bigorrilho, Curitiba - PR, 80420-190"
+    ],
+    "data": [
+      {
+        "query": "Rua Desembargador Motta, 2601 - Bigorrilho, Curitiba - PR, 80420-190",
+        "display_name": "2601, Rua Desembargador Motta, Mercês, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-190, Brasil",
+        "lat": "-25.4328974",
+        "lon": "-49.2844165"
+      }
     ]
   },
   "la-pasta-gialla": {
@@ -535,6 +1215,14 @@
   "la-pasta-gialla-2": {
     "address": [
       " Av. do Batel, 1868 - Batel, Curitiba - PR, 80420-090"
+    ],
+    "data": [
+      {
+        "query": "Av. do Batel, 1868 - Batel, Curitiba - PR, 80420-090",
+        "display_name": "Shopping Pátio Batel, 1868, Avenida do Batel, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-090, Brasil",
+        "lat": "-25.442964",
+        "lon": "-49.29093575383318"
+      }
     ]
   },
   "la-vaca-steakhouse": {
@@ -545,6 +1233,14 @@
   "la-vaca-steakhouse-2": {
     "address": [
       " Av. Cândido de Abreu, 127 - Centro Cívico, Curitiba - PR, 80530-000"
+    ],
+    "data": [
+      {
+        "query": "Av. Cândido de Abreu, 127 - Centro Cívico, Curitiba - PR, 80530-000",
+        "display_name": "Shopping Mueller, 127, Avenida Cândido de Abreu, Centro Cívico, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80530-060, Brasil",
+        "lat": "-25.4233367",
+        "lon": "-49.270511701628216"
+      }
     ]
   },
   "leby": {
@@ -553,26 +1249,66 @@
   "lola-li-doceria": {
     "address": [
       " Alameda Prudente de Moraes, 1225 - Centro, Curitiba - PR, 80430-220"
+    ],
+    "data": [
+      {
+        "query": "Alameda Prudente de Moraes, 1225 - Centro, Curitiba - PR, 80430-220",
+        "display_name": "Lola Li Café e Doceria, 1225, Rua Prudente de Moraes, Mercês, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80410-000, Brasil",
+        "lat": "-25.4325637",
+        "lon": "-49.2812181"
+      }
     ]
   },
   "maccheroni-trattoria": {
     "address": [
       " R. Manoel Eufrásio, 1124 - Ahú, Curitiba - PR, 80540-010"
+    ],
+    "data": [
+      {
+        "query": "R. Manoel Eufrásio, 1124 - Ahú, Curitiba - PR, 80540-010",
+        "display_name": "Maccheroni Massas e Mignons, 1124, Rua Manoel Eufrásio, Ahú, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80540-240, Brasil",
+        "lat": "-25.4094851",
+        "lon": "-49.2637399"
+      }
     ]
   },
   "mada-tratoria-e-pizzaria": {
     "address": [
       " R. Saldanha Marinho, 1230 - Centro, Curitiba - PR, 80430-160"
+    ],
+    "data": [
+      {
+        "query": "R. Saldanha Marinho, 1230 - Centro, Curitiba - PR, 80430-160",
+        "display_name": "1230, Rua Saldanha Marinho, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80430-160, Brasil",
+        "lat": "-25.4329413",
+        "lon": "-49.283317"
+      }
     ]
   },
   "madala-gourmet": {
     "address": [
       " Rua Eurides Cunha, 90 - loja 2 - Vila Izabel, Curitiba - PR, 80320-010"
+    ],
+    "data": [
+      {
+        "query": "Rua Eurides Cunha, 90 - loja 2 - Vila Izabel, Curitiba - PR, 80320-010",
+        "display_name": "90, Rua Eurides Cunha, Vila Izabel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80620-010, Brasil",
+        "lat": "-25.4550879",
+        "lon": "-49.2890985"
+      }
     ]
   },
   "madalosso-2": {
     "address": [
       " Av. Manoel Ribas, 5875 - Santa Felicidade, Curitiba - PR, 82400-000"
+    ],
+    "data": [
+      {
+        "query": "Av. Manoel Ribas, 5875 - Santa Felicidade, Curitiba - PR, 82400-000",
+        "display_name": "Madalosso, 5875, Avenida Manoel Ribas, Santa Felicidade, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 82400-000, Brasil",
+        "lat": "-25.405554600000002",
+        "lon": "-49.32829731200085"
+      }
     ]
   },
   "mais1-cafe-2": {
@@ -581,32 +1317,98 @@
       " Rua Emiliano Perneta, 421 - Centro, Curitiba - PR, 80420-080",
       " Av, R. Mal. Deodoro, 303 - Centro, Curitiba - PR, 80020-320",
       " R. Vicente Machado, 288 - Centro, Curitiba - PR, 82590-300"
+    ],
+    "data": [
+      {
+        "query": "Av. Sete de Setembro, 3619 - Centro, Curitiba - PR, 80230-010",
+        "display_name": "Pub 7, 3619, Avenida Sete de Setembro, Rebouças, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80250-104, Brasil",
+        "lat": "-25.4405702",
+        "lon": "-49.2737452"
+      },
+      {
+        "query": "Rua Emiliano Perneta, 421 - Centro, Curitiba - PR, 80420-080",
+        "display_name": "421, Rua Emiliano Perneta, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80010-030, Brasil",
+        "lat": "-25.4356484",
+        "lon": "-49.2757629"
+      },
+      {
+        "query": "R. Vicente Machado, 288 - Centro, Curitiba - PR, 82590-300",
+        "display_name": "Rua Vicente Machado, Jardim Saara, Itaperuçu, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 83560-000, Brasil",
+        "lat": "-25.2149477",
+        "lon": "-49.3313292"
+      }
     ]
   },
   "malaui-2": {
     "address": [
       " R. Teixeira Coelho, 350 - Batel, Curitiba - PR, 80420-150"
+    ],
+    "data": [
+      {
+        "query": "R. Teixeira Coelho, 350 - Batel, Curitiba - PR, 80420-150",
+        "display_name": "Rua Teixeira Coelho, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80240-110, Brasil",
+        "lat": "-25.4399813",
+        "lon": "-49.2874323"
+      }
     ]
   },
   "mambembe": {
     "address": [
       " Av. Cândido de Abreu, 127 - Centro Cívico, Curitiba - PR, 80530-010"
+    ],
+    "data": [
+      {
+        "query": "Av. Cândido de Abreu, 127 - Centro Cívico, Curitiba - PR, 80530-010",
+        "display_name": "Shopping Mueller, 127, Avenida Cândido de Abreu, Centro Cívico, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80530-060, Brasil",
+        "lat": "-25.4233367",
+        "lon": "-49.270511701628216"
+      }
     ]
   },
   "maria-queijaria": {
     "address": [
       " Av. Munhoz da Rocha, 921 - Cabral, Curitiba - PR, 80035-000"
+    ],
+    "data": [
+      {
+        "query": "Av. Munhoz da Rocha, 921 - Cabral, Curitiba - PR, 80035-000",
+        "display_name": "921, Avenida Munhoz da Rocha, Cabral, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80035-060, Brasil",
+        "lat": "-25.408073",
+        "lon": "-49.2506694"
+      }
     ]
   },
   "mary-ann-apple-factory": {
     "address": [
       " R. Vieira dos Santos, 158 - Centro Cívico, Curitiba - PR, 80540-310",
       " Alameda Augusto Stellfeld, 1649 - Bigorrilho, Curitiba - PR, 80730-150"
+    ],
+    "data": [
+      {
+        "query": "R. Vieira dos Santos, 158 - Centro Cívico, Curitiba - PR, 80540-310",
+        "display_name": "Rua Vieira dos Santos, Ahú, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80540-280, Brasil",
+        "lat": "-25.4060775",
+        "lon": "-49.2686013"
+      },
+      {
+        "query": "Alameda Augusto Stellfeld, 1649 - Bigorrilho, Curitiba - PR, 80730-150",
+        "display_name": "Alameda Augusto Stellfeld, Bigorrilho, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80730-420, Brasil",
+        "lat": "-25.4349732",
+        "lon": "-49.2923845"
+      }
     ]
   },
   "mezmiz-cozinha-libanesa-descomplicada": {
     "address": [
       " R. Brasílio Itiberê, 4412 - Água Verde, Curitiba - PR, 80240-060"
+    ],
+    "data": [
+      {
+        "query": "R. Brasílio Itiberê, 4412 - Água Verde, Curitiba - PR, 80240-060",
+        "display_name": "Mezmiz, 4412, Rua Brasílio Itiberê, Água Verde, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80620-200, Brasil",
+        "lat": "-25.4534882",
+        "lon": "-49.2861741"
+      }
     ]
   },
   "milk-creamery-2": {
@@ -614,67 +1416,168 @@
       " Av. Iguaçu, 4399 - Vila Izabel, Curitiba - PR, 80240-031",
       " R. Itacolomi, 1515 - Portão, Curitiba - PR, 81070-150",
       " R. Konrad Adenauer, 370 - Tarumã, Curitiba - PR, 82821-020"
+    ],
+    "data": [
+      {
+        "query": "Av. Iguaçu, 4399 - Vila Izabel, Curitiba - PR, 80240-031",
+        "display_name": "Souq, 4399, Avenida Iguaçu, Seminário, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80240-031, Brasil",
+        "lat": "-25.45497695",
+        "lon": "-49.30264819142673"
+      },
+      {
+        "query": "R. Itacolomi, 1515 - Portão, Curitiba - PR, 81070-150",
+        "display_name": "Mercado Sal, 1515, Rua Itacolomi, Portão, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81050-424, Brasil",
+        "lat": "-25.4801006",
+        "lon": "-49.307208461013005"
+      },
+      {
+        "query": "R. Konrad Adenauer, 370 - Tarumã, Curitiba - PR, 82821-020",
+        "display_name": "Wal Halla, 370, Rua Konrad Adenauer, Tarumã, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 82821-020, Brasil",
+        "lat": "-25.4276775",
+        "lon": "-49.2154251"
+      }
     ]
   },
   "mini-fazenda-witmarzoo-2": {
     "address": [
       " Av. Pres. Ernesto Geisel - Palmeira, PR, 84130-000"
-    ]
+    ],
+    "data": []
   },
   "miuq-restaurante": {
     "address": [
       " Alameda Dr. Carlos de Carvalho, 1160 - Centro, Curitiba - PR, 80730-200"
+    ],
+    "data": [
+      {
+        "query": "Alameda Dr. Carlos de Carvalho, 1160 - Centro, Curitiba - PR, 80730-200",
+        "display_name": "1160, Alameda Doutor Carlos de Carvalho, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80430-180, Brasil",
+        "lat": "-25.4353432",
+        "lon": "-49.2860035"
+      }
     ]
   },
   "mochi": {
     "address": [
       " R. Ema Taner de Andrade, 275 - Lot. Sao Jose, Campo Largo - PR, 83606-360"
+    ],
+    "data": [
+      {
+        "query": "R. Ema Taner de Andrade, 275 - Lot. Sao Jose, Campo Largo - PR, 83606-360",
+        "display_name": "Rua Ema Taner de Andrade, Campo Largo, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, Brasil",
+        "lat": "-25.43569435",
+        "lon": "-49.51927221028445"
+      }
     ]
   },
   "moncloa-parkshoppingbarigui": {
     "address": [
       " R. Professor Pedro Viriato Parigot de Souza, 600 Piso Térreo Loja 1002 - Mossunguê, Curitiba - PR, 81200-100"
-    ]
+    ],
+    "data": []
   },
   "mornings-cafe-da-manha-o-dia-todo": {
     "address": [
       " R. Cel. Dulcídio, 544 - Batel, Curitiba - PR, 80420-170"
+    ],
+    "data": [
+      {
+        "query": "R. Cel. Dulcídio, 544 - Batel, Curitiba - PR, 80420-170",
+        "display_name": "Rua Coronel Dulcídio, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80250-120, Brasil",
+        "lat": "-25.4379819",
+        "lon": "-49.2843358"
+      }
     ]
   },
   "mustang-sally": {
     "address": [
       " Avenida Cândido de Abreu, 127 Shopping Mueller - Centro Cívico, Curitiba - PR, 80530-060"
-    ]
+    ],
+    "data": []
   },
   "nanica-2": {
     "address": [
       " R. Cel. Dulcídio, 540 - Batel, Curitiba - PR, 80420-170"
+    ],
+    "data": [
+      {
+        "query": "R. Cel. Dulcídio, 540 - Batel, Curitiba - PR, 80420-170",
+        "display_name": "540, Rua Coronel Dulcídio, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80250-120, Brasil",
+        "lat": "-25.4385833",
+        "lon": "-49.2838914"
+      }
     ]
   },
   "nanu-poke-salad": {
     "address": [
       " Pátio Batel - Av. do Batel, 1868 - Batel, Curitiba - PR, 80420-090"
+    ],
+    "data": [
+      {
+        "query": "Pátio Batel - Av. do Batel, 1868 - Batel, Curitiba - PR, 80420-090",
+        "display_name": "Shopping Pátio Batel, 1868, Avenida do Batel, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-090, Brasil",
+        "lat": "-25.442964",
+        "lon": "-49.29093575383318"
+      }
     ]
   },
   "nayme-2": {
     "address": [
       " R. Cel. Dulcídio, 572 - Batel, Curitiba - PR, 80420-170"
+    ],
+    "data": [
+      {
+        "query": "R. Cel. Dulcídio, 572 - Batel, Curitiba - PR, 80420-170",
+        "display_name": "572, Rua Coronel Dulcídio, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80250-120, Brasil",
+        "lat": "-25.4387767",
+        "lon": "-49.2836848"
+      }
     ]
   },
   "ninna-cozinha": {
     "address": [
       " Rua Desembargador Motta, 1861 - Água Verde, Curitiba - PR, 80420-162"
+    ],
+    "data": [
+      {
+        "query": "Rua Desembargador Motta, 1861 - Água Verde, Curitiba - PR, 80420-162",
+        "display_name": "1861, Rua Desembargador Motta, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-080, Brasil",
+        "lat": "-25.4381053",
+        "lon": "-49.2801566"
+      }
     ]
   },
   "nobaday-acai": {
     "address": [
       " Av. Presidente Arthur da Silva Bernardes, 775 - Vila Izabel, Curitiba - PR, 80320-300",
       " Estacionamento - R. José Brusamolin, s/n - São Lourenço, Curitiba - PR, 82200-000"
+    ],
+    "data": [
+      {
+        "query": "Av. Presidente Arthur da Silva Bernardes, 775 - Vila Izabel, Curitiba - PR, 80320-300",
+        "display_name": "Avenida Presidente Arthur da Silva Bernardes, Portão, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80610-260, Brasil",
+        "lat": "-25.4687048",
+        "lon": "-49.2966548"
+      },
+      {
+        "query": "Estacionamento - R. José Brusamolin, s/n - São Lourenço, Curitiba - PR, 82200-000",
+        "display_name": "Estacionamento Condor, Água Verde, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80620-400, Brasil",
+        "lat": "-25.4528202",
+        "lon": "-49.2797032"
+      }
     ]
   },
   "nt-doceria-finos": {
     "address": [
       " R. dos Josefinos, 25 - Água Verde, Curitiba - PR, 80620-050"
+    ],
+    "data": [
+      {
+        "query": "R. dos Josefinos, 25 - Água Verde, Curitiba - PR, 80620-050",
+        "display_name": "Rua dos Josefinos, Água Verde, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80620-030, Brasil",
+        "lat": "-25.4653381",
+        "lon": "-49.2900945"
+      }
     ]
   },
   "nt-doces-finos": {
@@ -685,6 +1588,14 @@
   "nuu-nikei": {
     "address": [
       " R. Fernando Simas, 333 - Bigorrilho, Curitiba - PR, 80430-190"
+    ],
+    "data": [
+      {
+        "query": "R. Fernando Simas, 333 - Bigorrilho, Curitiba - PR, 80430-190",
+        "display_name": "333, Rua Fernando Simas, Bigorrilho, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80430-190, Brasil",
+        "lat": "-25.4329547",
+        "lon": "-49.2882658"
+      }
     ]
   },
   "o-famoso-brigadeiro": {
@@ -703,12 +1614,34 @@
   "o-pudim-perfeito-2": {
     "address": [
       " Alameda Dr. Carlos de Carvalho, 1612 - Loja B - Bigorrilho, Curitiba - PR, 80730-201"
+    ],
+    "data": [
+      {
+        "query": "Alameda Dr. Carlos de Carvalho, 1612 - Loja B - Bigorrilho, Curitiba - PR, 80730-201",
+        "display_name": "1612, Alameda Doutor Carlos de Carvalho, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-190, Brasil",
+        "lat": "-25.436966",
+        "lon": "-49.2901672"
+      }
     ]
   },
   "oakberry-2": {
     "address": [
       " Shopping Curitiba - R. Brg. Franco, 2300 - Centro, Curitiba - PR, 80250-030",
       " Pátio Batel - Av. do Batel, 1868 - Batel, Curitiba - PR, 80420-090"
+    ],
+    "data": [
+      {
+        "query": "Shopping Curitiba - R. Brg. Franco, 2300 - Centro, Curitiba - PR, 80250-030",
+        "display_name": "Shopping Curitiba, 2300, Rua Brigadeiro Franco, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80250-130, Brasil",
+        "lat": "-25.44101455",
+        "lon": "-49.27736085423784"
+      },
+      {
+        "query": "Pátio Batel - Av. do Batel, 1868 - Batel, Curitiba - PR, 80420-090",
+        "display_name": "Shopping Pátio Batel, 1868, Avenida do Batel, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-090, Brasil",
+        "lat": "-25.442964",
+        "lon": "-49.29093575383318"
+      }
     ]
   },
   "officina-resto-bar": {
@@ -719,6 +1652,14 @@
   "oakberry": {
     "address": [
       " Alameda Dr. Carlos de Carvalho, 1154 - Centro, Curitiba - PR, 80430-180"
+    ],
+    "data": [
+      {
+        "query": "Alameda Dr. Carlos de Carvalho, 1154 - Centro, Curitiba - PR, 80430-180",
+        "display_name": "1154, Alameda Doutor Carlos de Carvalho, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80430-180, Brasil",
+        "lat": "-25.4353206",
+        "lon": "-49.2859459"
+      }
     ]
   },
   "olivenca-cozinha-iberica": {
@@ -729,6 +1670,14 @@
   "olivenca-cozinha-iberica-2": {
     "address": [
       " Alameda Dr. Carlos de Carvalho, 1154 - Centro, Curitiba - PR, 80430-180"
+    ],
+    "data": [
+      {
+        "query": "Alameda Dr. Carlos de Carvalho, 1154 - Centro, Curitiba - PR, 80430-180",
+        "display_name": "1154, Alameda Doutor Carlos de Carvalho, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80430-180, Brasil",
+        "lat": "-25.4353206",
+        "lon": "-49.2859459"
+      }
     ]
   },
   "opa": {
@@ -739,41 +1688,105 @@
   "opa-o-padeiro-artesanal": {
     "address": [
       " Mercadoteca - R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220"
+    ],
+    "data": [
+      {
+        "query": "Mercadoteca - R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220",
+        "display_name": "Mercadoteca, 1309, Rua Paulo Gorski, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81200-000, Brasil",
+        "lat": "-25.4418025",
+        "lon": "-49.32268531093524"
+      }
     ]
   },
   "operaria-wafferia": {
     "address": [
       " Alameda Prudente de Moraes, 1077 - Centro, Curitiba - PR, 80430-200"
+    ],
+    "data": [
+      {
+        "query": "Alameda Prudente de Moraes, 1077 - Centro, Curitiba - PR, 80430-200",
+        "display_name": "Rua Prudente de Moraes, Mercês, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80410-000, Brasil",
+        "lat": "-25.4257178",
+        "lon": "-49.2846158"
+      }
     ]
   },
   "ow-mate": {
     "address": [
       " R. Vicente Machado, 190 - Centro, Curitiba - PR, 80420-010"
+    ],
+    "data": [
+      {
+        "query": "R. Vicente Machado, 190 - Centro, Curitiba - PR, 80420-010",
+        "display_name": "Rua Vicente Machado, Jardim Saara, Itaperuçu, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 83560-000, Brasil",
+        "lat": "-25.2149477",
+        "lon": "-49.3313292"
+      }
     ]
   },
   "pantucci-panificadora": {
     "address": [
       " Pátio Batel - Av. do Batel, 1868 - Batel, Curitiba - PR, 80420-090 "
+    ],
+    "data": [
+      {
+        "query": "Pátio Batel - Av. do Batel, 1868 - Batel, Curitiba - PR, 80420-090",
+        "display_name": "Shopping Pátio Batel, 1868, Avenida do Batel, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-090, Brasil",
+        "lat": "-25.442964",
+        "lon": "-49.29093575383318"
+      }
     ]
   },
   "pantucci-vila-izabel": {
     "address": [
       " R. Prof. Ulisses Vieira, 146 - Vila Izabel, Curitiba - PR, 80320-090"
+    ],
+    "data": [
+      {
+        "query": "R. Prof. Ulisses Vieira, 146 - Vila Izabel, Curitiba - PR, 80320-090",
+        "display_name": "146, Rua Professor Ulisses Vieira, Portão, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80320-070, Brasil",
+        "lat": "-25.4616915",
+        "lon": "-49.2917319"
+      }
     ]
   },
   "pepe": {
     "address": [
       " R. Euclides da Cunha, 1718 - Bigorrilho, Curitiba - PR, 80730-360"
+    ],
+    "data": [
+      {
+        "query": "R. Euclides da Cunha, 1718 - Bigorrilho, Curitiba - PR, 80730-360",
+        "display_name": "Rua Euclides da Cunha, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80730-350, Brasil",
+        "lat": "-25.4381107",
+        "lon": "-49.2962976"
+      }
     ]
   },
   "pero-que-si-cevicheria-2": {
     "address": [
       " R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220"
+    ],
+    "data": [
+      {
+        "query": "R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220",
+        "display_name": "Mercadoteca, 1309, Rua Paulo Gorski, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81200-000, Brasil",
+        "lat": "-25.4418025",
+        "lon": "-49.32268531093524"
+      }
     ]
   },
   "piatto-o-pastificio": {
     "address": [
       " Rua José Nicco, 712 - Mossunguê, Curitiba - PR, 81200-300"
+    ],
+    "data": [
+      {
+        "query": "Rua José Nicco, 712 - Mossunguê, Curitiba - PR, 81200-300",
+        "display_name": "Piatto o Pastifício & Rotisseria, 712, Rua José Nicco, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81200-220, Brasil",
+        "lat": "-25.436761349999998",
+        "lon": "-49.33623612327325"
+      }
     ]
   },
   "piola": {
@@ -784,11 +1797,27 @@
   "piola-2": {
     "address": [
       "Alameda Dom Pedro II, 105 - Batel, Curitiba - PR, 80420-060"
+    ],
+    "data": [
+      {
+        "query": "Alameda Dom Pedro II, 105 - Batel, Curitiba - PR, 80420-060",
+        "display_name": "105, Alameda Dom Pedro II, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-160, Brasil",
+        "lat": "-25.43717",
+        "lon": "-49.2826806"
+      }
     ]
   },
   "poke-to-wok": {
     "address": [
       " Vila Urbana - R. Mal. Deodoro, 686 - Centro, Curitiba - PR, 80020-320"
+    ],
+    "data": [
+      {
+        "query": "Vila Urbana - R. Mal. Deodoro, 686 - Centro, Curitiba - PR, 80020-320",
+        "display_name": "Vila Urbana, Rua José Loureiro, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80010-200, Brasil",
+        "lat": "-25.430614749999997",
+        "lon": "-49.265527423155206"
+      }
     ]
   },
   "ponto-gin": {
@@ -799,11 +1828,27 @@
   "ponto-gin-mercadoteca": {
     "address": [
       " Mercadoteca - R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220"
+    ],
+    "data": [
+      {
+        "query": "Mercadoteca - R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220",
+        "display_name": "Mercadoteca, 1309, Rua Paulo Gorski, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81200-000, Brasil",
+        "lat": "-25.4418025",
+        "lon": "-49.32268531093524"
+      }
     ]
   },
   "praca-do-victor": {
     "address": [
       " R. Saldanha Marinho, 1650 - Bigorrilho, Curitiba - PR, 80430-160"
+    ],
+    "data": [
+      {
+        "query": "R. Saldanha Marinho, 1650 - Bigorrilho, Curitiba - PR, 80430-160",
+        "display_name": "1650, Rua Saldanha Marinho, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80430-160, Brasil",
+        "lat": "-25.4344306",
+        "lon": "-49.2871926"
+      }
     ]
   },
   "qui-si-mangia-bene": {
@@ -815,6 +1860,14 @@
     "address": [
       " Alameda Dom Pedro II 255 Loja 11 (Shopping Novo Batel)",
       " Rua Júlia Wanderley, 1360, Mercês"
+    ],
+    "data": [
+      {
+        "query": "Rua Júlia Wanderley, 1360, Mercês",
+        "display_name": "1360, Rua Júlia Wanderley, Mercês, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80710-570, Brasil",
+        "lat": "-25.4272694",
+        "lon": "-49.2974925"
+      }
     ]
   },
   "roberta-schwanke": {
@@ -825,6 +1878,14 @@
   "roberta-schwanke-2": {
     "address": [
       " R. Atílio Bório, 1398 - Cristo Rei, Curitiba - PR, 80040-445"
+    ],
+    "data": [
+      {
+        "query": "R. Atílio Bório, 1398 - Cristo Rei, Curitiba - PR, 80040-445",
+        "display_name": "1398, Rua Atílio Bório, Alto da Rua XV, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80040-140, Brasil",
+        "lat": "-25.4228709",
+        "lon": "-49.2519271"
+      }
     ]
   },
   "rock-pizza-roll": {
@@ -835,26 +1896,59 @@
   "rock-pizza-roll-2": {
     "address": [
       "R. Chile, 1651 - Rebouças, Curitiba - PR, 80220-181"
+    ],
+    "data": [
+      {
+        "query": "R. Chile, 1651 - Rebouças, Curitiba - PR, 80220-181",
+        "display_name": "1651, Rua Chile, Rebouças, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80220-181, Brasil",
+        "lat": "-25.4506578",
+        "lon": "-49.2648598"
+      }
     ]
   },
   "romeo": {
     "address": [
       " R. Vicente Machado, 975 - Batel, Curitiba - PR, 80420-010"
+    ],
+    "data": [
+      {
+        "query": "R. Vicente Machado, 975 - Batel, Curitiba - PR, 80420-010",
+        "display_name": "Rua Vicente Machado, Jardim Saara, Itaperuçu, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 83560-000, Brasil",
+        "lat": "-25.2149477",
+        "lon": "-49.3313292"
+      }
     ]
   },
   "sala-cafe-living": {
     "address": [
       " Alameda Pres. Taunay, 533 - Bigorrilho, Curitiba - PR, 80420-180"
-    ]
+    ],
+    "data": []
   },
   "sao-jose-eco-paintball": {
     "address": [
       " R. Eugênio Môro, 2000 - Miringuava, São José dos Pinhais - PR, 83090-220"
+    ],
+    "data": [
+      {
+        "query": "R. Eugênio Môro, 2000 - Miringuava, São José dos Pinhais - PR, 83090-220",
+        "display_name": "Rua Eugênio Moro, Del Rey, São José dos Pinhais, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 83015-000, Brasil",
+        "lat": "-25.5858719",
+        "lon": "-49.1682209"
+      }
     ]
   },
   "si-signore-2": {
     "address": [
       " R. Dep. Heitor Alencar Furtado, 2850 - Campo Comprido, Curitiba - PR, 81200-528"
+    ],
+    "data": [
+      {
+        "query": "R. Dep. Heitor Alencar Furtado, 2850 - Campo Comprido, Curitiba - PR, 81200-528",
+        "display_name": "2850, Rua Deputado Heitor Alencar Furtado, Campo Comprido, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81200-110, Brasil",
+        "lat": "-25.4389257",
+        "lon": "-49.334442"
+      }
     ]
   },
   "sirene-fish-chips": {
@@ -863,87 +1957,226 @@
       " R. Vicente Machado, 632 - Centro, Curitiba - PR, 80420-010",
       " R. Buenos Aires, 1260 - Água Verde, Curitiba - PR, 80250-070",
       " R. Konrad Adenauer, 370 - Tarumã, Curitiba - PR, 82821-020"
+    ],
+    "data": [
+      {
+        "query": "R. Trajano Reis, 150 - São Francisco, Curitiba - PR, 80510-220",
+        "display_name": "Sirène Fish & Chips, 150, Rua Trajano Reis, São Francisco, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81450-110, Brasil",
+        "lat": "-25.4259908",
+        "lon": "-49.273764"
+      },
+      {
+        "query": "R. Vicente Machado, 632 - Centro, Curitiba - PR, 80420-010",
+        "display_name": "Rua Vicente Machado, Jardim Saara, Itaperuçu, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 83560-000, Brasil",
+        "lat": "-25.2149477",
+        "lon": "-49.3313292"
+      },
+      {
+        "query": "R. Buenos Aires, 1260 - Água Verde, Curitiba - PR, 80250-070",
+        "display_name": "Arena da Baixada, 1260, Rua Buenos Aires, Água Verde, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80250-070, Brasil",
+        "lat": "-25.4483872",
+        "lon": "-49.276216550221854"
+      },
+      {
+        "query": "R. Konrad Adenauer, 370 - Tarumã, Curitiba - PR, 82821-020",
+        "display_name": "Wal Halla, 370, Rua Konrad Adenauer, Tarumã, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 82821-020, Brasil",
+        "lat": "-25.4276775",
+        "lon": "-49.2154251"
+      }
     ]
   },
   "soft-ice-cream": {
     "address": [
       " Alameda Dr. Carlos de Carvalho, 665 - Loja 2 - Centro, Curitiba - PR, 80430-180"
+    ],
+    "data": [
+      {
+        "query": "Alameda Dr. Carlos de Carvalho, 665 - Loja 2 - Centro, Curitiba - PR, 80430-180",
+        "display_name": "665, Alameda Doutor Carlos de Carvalho, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80430-180, Brasil",
+        "lat": "-25.4338081",
+        "lon": "-49.2814846"
+      }
     ]
   },
   "sotile-pasticceria": {
     "address": [
       " Rua Barão dos Campos Gerais, 548 - Juvevê, Curitiba - PR, 80030-400"
+    ],
+    "data": [
+      {
+        "query": "Rua Barão dos Campos Gerais, 548 - Juvevê, Curitiba - PR, 80030-400",
+        "display_name": "548, Rua Barão dos Campos Gerais, Juvevê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80030-400, Brasil",
+        "lat": "-25.4163218",
+        "lon": "-49.2564296"
+      }
     ]
   },
   "st-444-batel": {
     "address": [
       " Alameda Pres. Taunay, 444 - Batel, Curitiba - PR, 80420-180"
-    ]
+    ],
+    "data": []
   },
   "st-444-patagonia": {
     "address": [
       " R. Gen. Mário Tourinho, 573 - Seminário, Curitiba - PR, 80740-000"
+    ],
+    "data": [
+      {
+        "query": "R. Gen. Mário Tourinho, 573 - Seminário, Curitiba - PR, 80740-000",
+        "display_name": "573, Rua General Mário Tourinho, Seminário, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80310-100, Brasil",
+        "lat": "-25.4470043",
+        "lon": "-49.3049173"
+      }
     ]
   },
   "sushiarte": {
     "address": [
       " Av. dos Estados, 95 - Água Verde, Curitiba - PR, 80610-040"
+    ],
+    "data": [
+      {
+        "query": "Av. dos Estados, 95 - Água Verde, Curitiba - PR, 80610-040",
+        "display_name": "95, Avenida dos Estados, Água Verde, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80620-130, Brasil",
+        "lat": "-25.4622934",
+        "lon": "-49.2808071"
+      }
     ]
   },
   "swadisht": {
     "address": [
       " R. Vicente Machado, 2036 - Batel, Curitiba - PR, 80440-020"
+    ],
+    "data": [
+      {
+        "query": "R. Vicente Machado, 2036 - Batel, Curitiba - PR, 80440-020",
+        "display_name": "Rua Vicente Machado, Jardim Saara, Itaperuçu, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 83560-000, Brasil",
+        "lat": "-25.2149477",
+        "lon": "-49.3313292"
+      }
     ]
   },
   "sweet-rosa-confeitaria": {
     "address": [
       "R. Eng. Niepce da Silva, 571 - Portão, Curitiba - PR, 80610-280"
+    ],
+    "data": [
+      {
+        "query": "R. Eng. Niepce da Silva, 571 - Portão, Curitiba - PR, 80610-280",
+        "display_name": "Rua Engenheiro Niepce da Silva, Portão, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80610-260, Brasil",
+        "lat": "-25.471284",
+        "lon": "-49.294384"
+      }
     ]
   },
   "tabefe-bar": {
     "address": [
       " R. Vicente Machado, 642 - Batel, Curitiba - PR, 80420-011"
+    ],
+    "data": [
+      {
+        "query": "R. Vicente Machado, 642 - Batel, Curitiba - PR, 80420-011",
+        "display_name": "Rua Vicente Machado, Jardim Saara, Itaperuçu, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 83560-000, Brasil",
+        "lat": "-25.2149477",
+        "lon": "-49.3313292"
+      }
     ]
   },
   "taido-sushi-delivery": {
     "address": [
       " R. Vicente Machado, 845 - Batel, Curitiba - PR, 80420-011",
       " R. Salgado Filho, 873 - Centro, União da Vitória - PR, 84600-368"
+    ],
+    "data": [
+      {
+        "query": "R. Vicente Machado, 845 - Batel, Curitiba - PR, 80420-011",
+        "display_name": "Rua Vicente Machado, Jardim Saara, Itaperuçu, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 83560-000, Brasil",
+        "lat": "-25.2149477",
+        "lon": "-49.3313292"
+      },
+      {
+        "query": "R. Salgado Filho, 873 - Centro, União da Vitória - PR, 84600-368",
+        "display_name": "Rua Salgado Filho, Ponte Nova, União da Vitória, Região Geográfica Imediata de União da Vitória, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 84600-280, Brasil",
+        "lat": "-26.2212884",
+        "lon": "-51.0869428"
+      }
     ]
   },
   "taisho-sushi": {
     "address": [
       " Av. Iguaçu, 1848 - Água Verde, Curitiba - PR, 80250-190"
+    ],
+    "data": [
+      {
+        "query": "Av. Iguaçu, 1848 - Água Verde, Curitiba - PR, 80250-190",
+        "display_name": "Taisho, 1848, Avenida Iguaçu, Água Verde, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80250-210, Brasil",
+        "lat": "-25.4457579",
+        "lon": "-49.2793369"
+      }
     ]
   },
   "taj-bar-2": {
     "address": [
       " R. Bpo. Dom José, 2302 - Batel, Curitiba - PR, 80440-080"
-    ]
+    ],
+    "data": []
   },
   "tao-sushi-2": {
     "address": [
       " R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220"
+    ],
+    "data": [
+      {
+        "query": "R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220",
+        "display_name": "Mercadoteca, 1309, Rua Paulo Gorski, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81200-000, Brasil",
+        "lat": "-25.4418025",
+        "lon": "-49.32268531093524"
+      }
     ]
   },
   "tea-shop": {
     "address": [
       " Avenida Cândido de Abreu, 127 - Piso L2 - Centro Cívico, Curitiba - PR, 80530-000"
+    ],
+    "data": [
+      {
+        "query": "Avenida Cândido de Abreu, 127 - Piso L2 - Centro Cívico, Curitiba - PR, 80530-000",
+        "display_name": "Shopping Mueller, 127, Avenida Cândido de Abreu, Centro Cívico, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80530-060, Brasil",
+        "lat": "-25.4233367",
+        "lon": "-49.270511701628216"
+      }
     ]
   },
   "terra-madre-ristorante": {
     "address": [
       " R. Des. Otávio do Amaral, 515 - Bigorrilho, Curitiba - PR, 80730-400"
-    ]
+    ],
+    "data": []
   },
   "thai-2": {
     "address": [
       " Alameda Júlia da Costa, 870 - Bigorrilho, Curitiba - PR, 80430-110"
+    ],
+    "data": [
+      {
+        "query": "Alameda Júlia da Costa, 870 - Bigorrilho, Curitiba - PR, 80430-110",
+        "display_name": "870, Alameda Júlia da Costa, Bigorrilho, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80730-330, Brasil",
+        "lat": "-25.4301104",
+        "lon": "-49.2858119"
+      }
     ]
   },
   "the-black-beef-2": {
     "address": [
       " Alameda Dr. Carlos de Carvalho, 1069 - Batel, Curitiba - PR, 80730-200"
+    ],
+    "data": [
+      {
+        "query": "Alameda Dr. Carlos de Carvalho, 1069 - Batel, Curitiba - PR, 80730-200",
+        "display_name": "1069, Alameda Doutor Carlos de Carvalho, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80430-180, Brasil",
+        "lat": "-25.4352122",
+        "lon": "-49.2850271"
+      }
     ]
   },
   "the-coffee": {
@@ -954,32 +2187,73 @@
   "the-oak-wine-and-beer-2": {
     "address": [
       " R. Visc. do Rio Branco, 1110 - Centro, Curitiba - PR, 80410-001"
+    ],
+    "data": [
+      {
+        "query": "R. Visc. do Rio Branco, 1110 - Centro, Curitiba - PR, 80410-001",
+        "display_name": "1110, Rua Visconde do Rio Branco, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80410-180, Brasil",
+        "lat": "-25.4317447",
+        "lon": "-49.2804772"
+      }
     ]
   },
   "the-ox-room-steakhouse": {
     "address": [
       " Alameda Dom Pedro II, 390 - Batel, Curitiba - PR, 80420-060"
+    ],
+    "data": [
+      {
+        "query": "Alameda Dom Pedro II, 390 - Batel, Curitiba - PR, 80420-060",
+        "display_name": "Gepetto Pizza & Cucina, 390, Alameda Dom Pedro II, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-160, Brasil",
+        "lat": "-25.4387453",
+        "lon": "-49.2847714"
+      }
     ]
   },
   "tiba-cafe": {
     "address": [
       " R. Amintas de Barros, 415 - Centro, Curitiba - PR, 80060-205"
+    ],
+    "data": [
+      {
+        "query": "R. Amintas de Barros, 415 - Centro, Curitiba - PR, 80060-205",
+        "display_name": "415, Rua Amintas de Barros, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80060-230, Brasil",
+        "lat": "-25.4262324",
+        "lon": "-49.26208066427225"
+      }
     ]
   },
   "tierra-del-fuego-2": {
     "address": [
       "R. Barão de Guaraúna, 550 - Juvevê, Curitiba - PR, 80030-310"
+    ],
+    "data": [
+      {
+        "query": "R. Barão de Guaraúna, 550 - Juvevê, Curitiba - PR, 80030-310",
+        "display_name": "Rua Barão de Guaraúna, Alto da Glória, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80030-340, Brasil",
+        "lat": "-25.4188032",
+        "lon": "-49.2594482"
+      }
     ]
   },
   "tokyo-milano-sushi": {
     "address": [
       " Alameda Dr. Carlos de Carvalho, 1066 - Batel, Curitiba - PR, 80730-200"
+    ],
+    "data": [
+      {
+        "query": "Alameda Dr. Carlos de Carvalho, 1066 - Batel, Curitiba - PR, 80730-200",
+        "display_name": "Tokyo Milano, 1066, Alameda Doutor Carlos de Carvalho, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-190, Brasil",
+        "lat": "-25.4349619",
+        "lon": "-49.2850783"
+      }
     ]
   },
   "tortas-do-mundo": {
     "address": [
       " Av. Sen. Souza Naves, 517 - Alto da XV, Curitiba - PR, 80045-190"
-    ]
+    ],
+    "data": []
   },
   "tropical-banana": {
     "address": [
@@ -988,57 +2262,157 @@
       " R. Imac. Conceição, 1155 - lj. 02/03 - Prado Velho, Curitiba - PR, 80215-901",
       " Av. Nossa Sra. de Lourdes, 63 - Jardim das Américas, Curitiba - PR, 81530-020",
       " Av. Pres. Kennedy, 4121 - Rebouças, Curitiba - PR, 80610-905"
+    ],
+    "data": [
+      {
+        "query": "R. Comendador Araújo, 489 - Centro, Curitiba - PR, 80420-000",
+        "display_name": "489, Rua Comendador Araújo, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-000, Brasil",
+        "lat": "-25.4368914",
+        "lon": "-49.2799041"
+      },
+      {
+        "query": "Av. Cândido de Abreu, 127 - lj. 17/G1 - Centro Cívico, Curitiba - PR, 80530-900",
+        "display_name": "Shopping Mueller, 127, Avenida Cândido de Abreu, Centro Cívico, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80530-060, Brasil",
+        "lat": "-25.4233367",
+        "lon": "-49.270511701628216"
+      }
     ]
   },
   "trovatta-mercadoteca": {
     "address": [
       " R. Paulo Gorski, 1309 - Loja 01 - Mossunguê, Curitiba - PR, 81210-220"
+    ],
+    "data": [
+      {
+        "query": "R. Paulo Gorski, 1309 - Loja 01 - Mossunguê, Curitiba - PR, 81210-220",
+        "display_name": "Mercadoteca, 1309, Rua Paulo Gorski, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81200-000, Brasil",
+        "lat": "-25.4418025",
+        "lon": "-49.32268531093524"
+      }
     ]
   },
   "up-stairs": {
     "address": [
       " R. Saldanha Marinho, 1650 - Bigorrilho, Curitiba - PR, 80430-160"
+    ],
+    "data": [
+      {
+        "query": "R. Saldanha Marinho, 1650 - Bigorrilho, Curitiba - PR, 80430-160",
+        "display_name": "1650, Rua Saldanha Marinho, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80430-160, Brasil",
+        "lat": "-25.4344306",
+        "lon": "-49.2871926"
+      }
     ]
   },
   "valais-koffee-bar": {
     "address": [
       " R. Buenos Aires, 499 - Batel, Curitiba - PR, 82860-140"
+    ],
+    "data": [
+      {
+        "query": "R. Buenos Aires, 499 - Batel, Curitiba - PR, 82860-140",
+        "display_name": "499, Rua Buenos Aires, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-100, Brasil",
+        "lat": "-25.4419407",
+        "lon": "-49.2787383"
+      }
     ]
   },
   "vino-2": {
     "address": [
       " Shopping Hauer, R. Comendador Araújo, 891 - Loja 5 - Batel, Curitiba - PR, 80420-000"
+    ],
+    "data": [
+      {
+        "query": "Shopping Hauer, R. Comendador Araújo, 891 - Loja 5 - Batel, Curitiba - PR, 80420-000",
+        "display_name": "Shopping Hauer, Rua Comendador Araújo, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80420-000, Brasil",
+        "lat": "-25.439691850000003",
+        "lon": "-49.28237720378321"
+      }
     ]
   },
   "wikimaki": {
     "address": [
       " R. Francisco Rocha, 679 - Batel, Curitiba - PR, 80730-390"
+    ],
+    "data": [
+      {
+        "query": "R. Francisco Rocha, 679 - Batel, Curitiba - PR, 80730-390",
+        "display_name": "679, Rua Francisco Rocha, Batel, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80730-380, Brasil",
+        "lat": "-25.4401386",
+        "lon": "-49.2906935"
+      }
     ]
   },
   "wikimaki-express": {
     "address": [
       " Park Shopping Barigui  - R. Prof. Pedro Viriato Parigot de Souza, 600 - Mossunguê, Curitiba - PR, 81200-100",
       " Jockey Plaza - R. Konrad Adenauer, 370 - Tarumã, Curitiba - PR, 82821-020"
+    ],
+    "data": [
+      {
+        "query": "Park Shopping Barigui  - R. Prof. Pedro Viriato Parigot de Souza, 600 - Mossunguê, Curitiba - PR, 81200-100",
+        "display_name": "Park Shopping Barigüi, Rua Professor Pedro Viriato Parigot de Souza, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81200-100, Brasil",
+        "lat": "-25.434797250000003",
+        "lon": "-49.31611458831486"
+      },
+      {
+        "query": "Jockey Plaza - R. Konrad Adenauer, 370 - Tarumã, Curitiba - PR, 82821-020",
+        "display_name": "Jockey Plaza Shopping Center, 370, Rua Konrad Adenauer, Tarumã, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 82821-020, Brasil",
+        "lat": "-25.4277656",
+        "lon": "-49.21545128050032"
+      }
     ]
   },
   "yabaia": {
     "address": [
       " R. Vicente Machado, 632 - Centro, Curitiba - PR, 80420-010"
+    ],
+    "data": [
+      {
+        "query": "R. Vicente Machado, 632 - Centro, Curitiba - PR, 80420-010",
+        "display_name": "Rua Vicente Machado, Jardim Saara, Itaperuçu, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 83560-000, Brasil",
+        "lat": "-25.2149477",
+        "lon": "-49.3313292"
+      }
     ]
   },
   "yoro-nikkei": {
     "address": [
       " R. Itupava, 1402 - Alto da Glória, Curitiba - PR, 80045-330"
+    ],
+    "data": [
+      {
+        "query": "R. Itupava, 1402 - Alto da Glória, Curitiba - PR, 80045-330",
+        "display_name": "Vila Yamon, 1402, Rua Itupava, Alto da Rua XV, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80045-330, Brasil",
+        "lat": "-25.423278500000002",
+        "lon": "-49.24652974871519"
+      }
     ]
   },
   "z-sushi": {
     "address": [
       " Rua Visconde de Nácar, 471 - São Francisco, Curitiba - PR, 80410-200"
+    ],
+    "data": [
+      {
+        "query": "Rua Visconde de Nácar, 471 - São Francisco, Curitiba - PR, 80410-200",
+        "display_name": "Rua Visconde de Nácar, Centro, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 80410-140, Brasil",
+        "lat": "-25.4300512",
+        "lon": "-49.2791889"
+      }
     ]
   },
   "zeppe": {
     "address": [
       " Mercadoteca - R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220"
+    ],
+    "data": [
+      {
+        "query": "Mercadoteca - R. Paulo Gorski, 1309 - Mossunguê, Curitiba - PR, 81210-220",
+        "display_name": "Mercadoteca, 1309, Rua Paulo Gorski, Mossunguê, Curitiba, Região Geográfica Imediata de Curitiba, Região Metropolitana de Curitiba, Região Geográfica Intermediária de Curitiba, Paraná, Região Sul, 81200-000, Brasil",
+        "lat": "-25.4418025",
+        "lon": "-49.32268531093524"
+      }
     ]
   }
 }
