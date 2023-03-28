@@ -1,4 +1,29 @@
+import { LatLngExpression } from 'leaflet';
 import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet';
+import dict from '../../scripts/address-list.json';
+import { Participants } from '../../scripts/get-address';
+import { LocationMarker } from './LocationMarker';
+
+export const CENTER = [-25.43358, -49.30387] as LatLngExpression;
+
+function randomize(numValue: string) {
+  const num = +(numValue || 0);
+  const ratio = 0.00015;
+  return `${num + (Math.random() * 2 * ratio - ratio)}`;
+}
+
+const markers = Object.entries(dict as Participants)
+  .map(([key, value]) => ({
+    key,
+    data: (value.data || []).map(({ lat, lon, ...data }) => ({
+      ...data,
+      lat: randomize(lat),
+      lon: randomize(lon),
+    })),
+  }))
+  .filter(item => !!item.data);
+
+console.log(markers);
 
 /**
  * OQFC Tour map component
@@ -11,23 +36,21 @@ import { MapContainer, Marker, Popup, TileLayer } from 'react-leaflet';
  */
 export function TourMap() {
   return (
-    <MapContainer center={[-25.43358, -49.30387]} zoom={13} scrollWheelZoom={false}>
+    <MapContainer center={CENTER} zoom={14}>
       <TileLayer
         attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
 
-      <Marker position={[-25.43358, -49.30387]}>
-        <Popup> Casa</Popup>
-      </Marker>
+      {markers.map(({ key, data }) =>
+        data.map(({ display_name, lat, lon }) => (
+          <Marker key={display_name} position={[+lat, +lon]}>
+            <Popup>{key}</Popup>
+          </Marker>
+        )),
+      )}
 
-      <Marker position={[-25.43, -49.3]}>
-        <Popup> Teste 1</Popup>
-      </Marker>
-
-      <Marker position={[-25.44, -49.29]}>
-        <Popup> Teste 2</Popup>
-      </Marker>
+      <LocationMarker />
     </MapContainer>
   );
 }
